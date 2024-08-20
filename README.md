@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋My name is Magnus
+- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+
 
 <!--
 **mag-and/mag-and** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
